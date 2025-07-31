@@ -24,8 +24,8 @@ I'm a **tech enthusiast** with an insatiable curiosity for everything tech. I do
 
 ### 🎯 What Drives Me
 - 🔬 **R&D Mindset**: Always experimenting with cutting-edge technologies
-- 🌐 **Full-Stack & Beyond**: From frontend to backend, mobile to desktop, web to native
-- 🧪 **Continuous Learning**: New day = New technology to explore
+- 🌐 **Full-Stack & Beyond**: From mastering frontend to backend eager to explore beyond
+- 🧪 **Continuous Learning**: Always ready for new technology to explore and develope on
 - 🚀 **Innovation First**: Building solutions that push boundaries
 - 🎨 **Art Meets Code**: Blending creativity with technical excellence
 
@@ -36,42 +36,42 @@ I'm a **tech enthusiast** with an insatiable curiosity for everything tech. I do
 > *Current stack is just the beginning......*
 ### - Frontend  
 <div>  
-<a href="https://en.wikipedia.org/wiki/HTML5" target="_blank"><img src="https://raw.githubusercontent.com/dev-vortex-007/dev-vortex-007.github.io/refs/heads/main/badges/html-5.svg" alt="HTML5" height="36" /></a>  
-<a href="https://www.w3schools.com/css/" target="_blank"><img src="https://raw.githubusercontent.com/dev-vortex-007/dev-vortex-007.github.io/refs/heads/main/badges/css-3.svg" alt="CSS3" height="36" /></a>  
-<a href="https://www.javascript.com/" target="_blank"><img src="https://raw.githubusercontent.com/dev-vortex-007/dev-vortex-007.github.io/refs/heads/main/badges/javascript.svg" alt="JavaScript" height="36" /></a>  
-<a href="https://www.typescriptlang.org/" target="_blank"><img src="https://raw.githubusercontent.com/dev-vortex-007/dev-vortex-007.github.io/refs/heads/main/badges/typescript.svg" alt="TypeScript" height="36" /></a>  
-<a href="https://reactjs.org/" target="_blank"><img src="https://raw.githubusercontent.com/dev-vortex-007/dev-vortex-007.github.io/refs/heads/main/badges/react.svg" alt="React" height="36" /></a>  
-<a href="https://nextjs.org/" target="_blank"><img src="https://raw.githubusercontent.com/dev-vortex-007/dev-vortex-007.github.io/refs/heads/main/badges/next.svg" alt="NextJS" height="36" /></a>  
-<a href="https://www.tailwindcss.com/" target="_blank"><img src="https://raw.githubusercontent.com/dev-vortex-007/dev-vortex-007.github.io/refs/heads/main/badges/tailwind.svg" alt="Tailwind CSS" height="36" /></a>  
+<a href="https://en.wikipedia.org/wiki/HTML5" target="_blank"><img src="https://raw.githubusercontent.com/dev-vortex-007/dev-vortex-007/refs/heads/main/badges/html-5.svg" alt="HTML5" height="36" /></a>  
+<a href="https://www.w3schools.com/css/" target="_blank"><img src="https://raw.githubusercontent.com/dev-vortex-007/dev-vortex-007/refs/heads/main/badges/css-3.svg" alt="CSS3" height="36" /></a>  
+<a href="https://www.javascript.com/" target="_blank"><img src="https://raw.githubusercontent.com/dev-vortex-007/dev-vortex-007/refs/heads/main/badges/javascript.svg" alt="JavaScript" height="36" /></a>  
+<a href="https://www.typescriptlang.org/" target="_blank"><img src="https://raw.githubusercontent.com/dev-vortex-007/dev-vortex-007/refs/heads/main/badges/typescript.svg" alt="TypeScript" height="36" /></a>  
+<a href="https://reactjs.org/" target="_blank"><img src="https://raw.githubusercontent.com/dev-vortex-007/dev-vortex-007/refs/heads/main/badges/react.svg" alt="React" height="36" /></a>  
+<a href="https://nextjs.org/" target="_blank"><img src="https://raw.githubusercontent.com/dev-vortex-007/dev-vortex-007/refs/heads/main/badges/next.svg" alt="NextJS" height="36" /></a>  
+<a href="https://www.tailwindcss.com/" target="_blank"><img src="https://raw.githubusercontent.com/dev-vortex-007/dev-vortex-007/refs/heads/main/badges/tailwind.svg" alt="Tailwind CSS" height="36" /></a>  
 </div>  
 
 
 
 ### - Backend  
 <div>
-<a href="https://nodejs.org/" target="_blank"><img src="https://raw.githubusercontent.com/dev-vortex-007/dev-vortex-007.github.io/refs/heads/main/badges/node.svg" alt="Node.js" height="36" /></a>
-<a href="https://expressjs.com/" target="_blank"><img src="https://raw.githubusercontent.com/dev-vortex-007/dev-vortex-007.github.io/refs/heads/main/badges/express.svg" alt="Express.js" height="36" /></a>
-<a href="https://www.python.org/" target="_blank"><img src="https://raw.githubusercontent.com/dev-vortex-007/dev-vortex-007.github.io/refs/heads/main/badges/python.svg" alt="Python" height="36" /></a>
-<a href="https://www.php.net/" target="_blank"><img src="https://raw.githubusercontent.com/dev-vortex-007/dev-vortex-007.github.io/refs/heads/main/badges/php.svg" alt="PHP" height="36" /></a>
-<a href="https://laravel.com/" target="_blank"><img src="https://raw.githubusercontent.com/dev-vortex-007/dev-vortex-007.github.io/refs/heads/main/badges/laravel.svg" alt="Laravel" height="36" /></a>
-<a href="https://www.mysql.com/" target="_blank"><img src="https://raw.githubusercontent.com/dev-vortex-007/dev-vortex-007.github.io/refs/heads/main/badges/mysql.svg" alt="MySQL" height="36" /></a>
-<a href="https://www.mongodb.com/" target="_blank"><img src="https://raw.githubusercontent.com/dev-vortex-007/dev-vortex-007.github.io/refs/heads/main/badges/mongodb.svg" alt="MongoDB" height="36" /></a>
+<a href="https://nodejs.org/" target="_blank"><img src="https://raw.githubusercontent.com/dev-vortex-007/dev-vortex-007/refs/heads/main/badges/node.svg" alt="Node.js" height="36" /></a>
+<a href="https://expressjs.com/" target="_blank"><img src="https://raw.githubusercontent.com/dev-vortex-007/dev-vortex-007/refs/heads/main/badges/express.svg" alt="Express.js" height="36" /></a>
+<a href="https://www.python.org/" target="_blank"><img src="https://raw.githubusercontent.com/dev-vortex-007/dev-vortex-007/refs/heads/main/badges/python.svg" alt="Python" height="36" /></a>
+<a href="https://www.php.net/" target="_blank"><img src="https://raw.githubusercontent.com/dev-vortex-007/dev-vortex-007/refs/heads/main/badges/php.svg" alt="PHP" height="36" /></a>
+<a href="https://laravel.com/" target="_blank"><img src="https://raw.githubusercontent.com/dev-vortex-007/dev-vortex-007/refs/heads/main/badges/laravel.svg" alt="Laravel" height="36" /></a>
+<a href="https://www.mysql.com/" target="_blank"><img src="https://raw.githubusercontent.com/dev-vortex-007/dev-vortex-007/refs/heads/main/badges/mysql.svg" alt="MySQL" height="36" /></a>
+<a href="https://www.mongodb.com/" target="_blank"><img src="https://raw.githubusercontent.com/dev-vortex-007/dev-vortex-007/refs/heads/main/badges/mongodb.svg" alt="MongoDB" height="36" /></a>
 </div>
 
 
 
 ### - Core Languages
 <div>
-<a href="" target="_blank"><img src="https://raw.githubusercontent.com/dev-vortex-007/dev-vortex-007.github.io/refs/heads/main/badges/c.svg" alt="C" height="36" /></a>
-<a href="" target="_blank"><img src="https://raw.githubusercontent.com/dev-vortex-007/dev-vortex-007.github.io/refs/heads/main/badges/cpp.svg" alt="C++" height="36" /></a>
-<a href="https://www.blender.org/" target="_blank"><img src="https://raw.githubusercontent.com/dev-vortex-007/dev-vortex-007.github.io/refs/heads/main/badges/java.svg" alt="Java" height="36" /></a>
+<a href="" target="_blank"><img src="https://raw.githubusercontent.com/dev-vortex-007/dev-vortex-007/refs/heads/main/badges/c.svg" alt="C" height="36" /></a>
+<a href="" target="_blank"><img src="https://raw.githubusercontent.com/dev-vortex-007/dev-vortex-007/refs/heads/main/badges/cpp.svg" alt="C++" height="36" /></a>
+<a href="https://www.blender.org/" target="_blank"><img src="https://raw.githubusercontent.com/dev-vortex-007/dev-vortex-007/refs/heads/main/badges/java.svg" alt="Java" height="36" /></a>
 </div>
 
 
 
 ### - Production
 <div>
-<a href="https://www.blender.org/" target="_blank"><img src="https://raw.githubusercontent.com/dev-vortex-007/dev-vortex-007.github.io/refs/heads/main/badges/blender.svg" alt="Blender" height="36" /></a>
+<a href="https://www.blender.org/" target="_blank"><img src="https://raw.githubusercontent.com/dev-vortex-007/dev-vortex-007/refs/heads/main/badges/blender.svg" alt="Blender" height="36" /></a>
 </div>
 
 
